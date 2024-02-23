@@ -21,7 +21,7 @@ test('has title', async ({ page }) => {
     await page.getByLabel('What\'s on your mind, สิริมา?').fill('Hello Playwright');
     await page.getByLabel('Post', {exact: true} ).press('Enter');
 
-//   await expect(page).toHaveTitle(/Playwright/);
+
 });
 
 
