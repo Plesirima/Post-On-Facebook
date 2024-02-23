@@ -3,4 +3,3 @@ node_modules/
 /blob-report/
 /Playwright/.cache/
 /.DS_Store/
-/.gitignore
